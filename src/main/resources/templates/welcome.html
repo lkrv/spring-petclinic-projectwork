@@ -1,9 +1,3 @@
-<SCRIPT>
-var ip = new java.net.InetAddress.getLocalHost();
-var ipStr = new java.lang.String(ip);
-document.writeln(ipStr.substring(ipStr.indexOf("/")+1));
-</SCRIPT>
-
 <!DOCTYPE html>
 
 <html xmlns:th="https://www.thymeleaf.org" th:replace="~{fragments/layout :: layout (~{::body},'home')}">
