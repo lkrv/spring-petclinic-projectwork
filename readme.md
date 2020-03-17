@@ -1,2 +1,1 @@
-External training <EPAM> - DevOps
-    Lakerev I.N.
+External training <EPAM> - DevOps/nLakerev I.N.
